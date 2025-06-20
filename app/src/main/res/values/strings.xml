@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMC-formule</string>
+    <string name="main_title">IMC For II-Master BDCC 1</string>
+    <string name="weight">Poids: </string>
+    <string name="size">Taille: </string>
+    <string name="calculate_imc">Calculer IMC: </string>
+    <string name="imc_message">Votre IMC est: </string>
+</resources>
